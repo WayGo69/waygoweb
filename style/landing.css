@@ -6,7 +6,7 @@
     background: url('../assets/pexels-vivek-chugh-157138-739987.jpg') no-repeat center center / cover;
     filter: brightness(100%); /* Darkens the image */
     height: 100vh;
-    z-index: -1; /* Adjust text color for contrast */
+    /* z-index:; Adjust text color for contrast */
 }
 
 
