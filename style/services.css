@@ -1,0 +1,30 @@
+.service-img-1{
+    width: 20vw;
+}
+.sections{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.headser{
+    font-size: 3vw;
+    font-family: inria sans;
+    color: #3C75CF;
+}
+.pad20{
+    gap: 10vw;
+}
+.head1{
+    font-size: 5vw;
+    font-family: inria sans;
+    /* color: #014AAB; */
+}
+.parag{
+    font-size: 1.5vw;
+    width: 40vw;
+}

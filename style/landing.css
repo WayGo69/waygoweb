@@ -282,5 +282,9 @@
       text-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.9); /* Strong blue glow */
   }
 }
-
+.bgbubbles{
+  position: absolute;
+  z-index: -1;
+  width: 100vw;
+}
 
