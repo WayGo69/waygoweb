@@ -11,10 +11,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: column ;
+    width: 95vw;
 }
 .flex{
     display: flex;
     align-items: center;
+
+}
+.hmm{
+    width: 95vw;
+    justify-content: space-evenly;
 }
 .headser{
     font-size: 3vw;
@@ -22,7 +28,7 @@
     color: #3C75CF;
 }
 .pad20{
-    gap: 10vw;
+    /* gap: 10vw; */
 }
 .head1{
     font-size: 7vw;
