@@ -137,7 +137,7 @@
   /* display: inline; */
 }
 .para{
-  width: 550px;
+  width: 80vw;
   text-align: center;
   font-family: inria sans;
   font-weight: 300;
@@ -160,7 +160,7 @@
   animation: trans 1.2s ease-in-out forwards;
 }
 .buttons{
-  font-size: 25px;
+  font-size: 2vw;
   padding-top: 4px;
     padding-bottom: 4px;
     padding-right: 20px;
@@ -287,4 +287,15 @@
   z-index: -1;
   width: 100vw;
 }
+.smthn{
+  width: 90vw;
+}
+.trustme{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 2.5vw;
+  align-items: center;
+  margin-top: 2vh;
 
+}

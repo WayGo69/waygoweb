@@ -1,3 +1,8 @@
+.services{
+    /* justify-content: center; */
+    text-align: center;
+    /* display: flex; */
+}
 .service-img-1{
     width: 20vw;
 }
@@ -20,11 +25,17 @@
     gap: 10vw;
 }
 .head1{
-    font-size: 5vw;
+    font-size: 7vw;
     font-family: inria sans;
     /* color: #014AAB; */
 }
 .parag{
     font-size: 1.5vw;
     width: 40vw;
+}
+#SEC2{
+    flex-direction: row-reverse;
+}
+.topmarg{
+    margin-top: 2vh;
 }

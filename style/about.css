@@ -6,7 +6,7 @@
     align-items: center;
   }
 .head{
-  font-size: 110px;
+  font-size: 9vw;
   font-family: inria sans;
   margin: 20px;
 }
@@ -28,7 +28,7 @@
   margin: 20px;
   margin-top: 20px;
   right: 20px;
-  font-size: 27px;
+  font-size: 1.5em;
   text-align: center;
   font-family: inria sans;
 }

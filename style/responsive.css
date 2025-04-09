@@ -1,24 +1,24 @@
 @media (max-width: 1130px) {
     .btn {
-        font-size: 13px;
+        /* font-size: 13px; */
     }
 
     .buttons {
-        font-size: 20px;
+        font-size: 2vw;
     }
     .main{
         flex-direction: column;
     }
     .paragraph{
-        font-size: 20px;
-        color: beige;
+        font-size: 1.3em;
+        color: rgb(0, 0, 0);
         width: 80vw;
         margin-top: 50px;
     }
     .map{
-        position: absolute;
+        /* position: absolute; */
         /* display: none; */
-        z-index: -2;
+        z-index: 0;
         /* opacity: 0%; */
         width: 85vw;
         filter: opacity(0.8);
@@ -30,21 +30,21 @@
 
 @media (max-width: 890px) {
     .btn {
-        font-size: 10px;
+        /* font-size: 10px; */
     }
 
     .buttons {
-        font-size: 15px;
+        font-size: 2vw;
     }
 }
 
 @media (max-width: 720px) {
     .btn {
-        font-size: 9px;
+        /* font-size: 9px; */
     }
 
     .buttons {
-        font-size: 12px;
+        font-size: 2vw;
     }
 
     .heading {
@@ -67,7 +67,7 @@
         /* width: 20px; */
     }
     .buttons{
-        font-size: 30px;
+        font-size: 2vw;
     }
     #list1{
         font-size: 20px;
